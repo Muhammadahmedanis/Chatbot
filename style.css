@@ -86,11 +86,11 @@ button{
 }
 
 #send, #receive{
-    margin: 10px 0;
+    margin: 10px 8px 10px 0px;;
     list-style: none;
     /* border: 2px solid; */
     border-radius: 5px;
-    width: 180px;
+    /* width: 180px; */
     font-size: 18px;
     padding: 9px 20px;
     background: #4fda89;
